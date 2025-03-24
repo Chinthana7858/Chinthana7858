@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Chinthana Rajapaksha!</h1>
+<h1 align="left">👋 Hi there, I'm Chinthana Rajapaksha!</h1>
 
 <p align="left">
   🌟 Full-Stack Developer | 💻 Software Enthusiast | 📸 Award-Winning Photographer <br>
