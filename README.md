@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Chinthana Rajapaksha!</h1>
 
-<p align="center">
+<p align="left">
   🌟 Full-Stack Developer | 💻 Software Enthusiast | 📸 Award-Winning Photographer <br>
   🚀 Passionate about building high-performance web & mobile applications
 </p>
