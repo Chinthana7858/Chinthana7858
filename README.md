@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **BSc (Hons) in Information Technology** – University of Moratuwa (UG)
+- 🎓 **BSc (Hons) in Information Technology** – University of Moratuwa 
 - 💼 Former **Associate & Intern Software Engineer** at *Hasthiya IT*
-- 🤖 Currently exploring **AI**, **Machine Learning**, and **Deep Learning**
 
 ---
 
